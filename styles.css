@@ -1,0 +1,236 @@
+header{
+    background-color: white;
+}
+
+*{
+    padding:0;
+    margin: 0;
+
+}
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(31, 35, 44);
+    color:white;
+    background: #191919;
+}
+
+.nav-list{
+    padding: 27px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #191919;
+    border-top: solid;
+    border-top-color: grey;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.nav-item{
+    font-weight: 600;
+    font-size: 18px;
+    color:white;
+}
+
+a:link{
+    color:white;
+}
+
+a:visited{
+    color:white;
+}
+
+a:hover{
+    color:#9b4b4b;
+}
+
+.stage{
+    text-decoration: underline;
+}
+
+h1{
+    text-align:center;
+    font-weight: 700;
+    padding: 30px;
+    font-size: 40px;
+    background-image:url(file:///C:/Users/Utilisateur/Desktop/Site%20HTML%20MILO/devweb.jpg);
+    height: 200px;
+    vertical-align: middle;
+    color:#df5d68;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+h2{
+    text-align:center;
+    text-decoration: underline;
+    color:black;
+}
+
+h3{
+    text-align:center;
+    text-decoration: underline;
+    display: inherit;
+    background-color: #131313;
+    color:#b77474;
+    padding: 10px;    
+    border-top: solid;
+    border-bottom:solid;
+    border-bottom-color: #b77474;
+    border-top-color: #b77474;
+    border-radius: 50px;
+    box-shadow: 1px 0 20px rgba(210, 11, 11, 0.15);
+}
+
+h4{
+    text-align: center;
+    background-color: rgb(31, 35, 44);
+    color:white;
+    padding: 8px;
+    background: #191919;
+}
+
+h5{
+    font-size: 16px;
+    text-align: center;
+}
+
+pc{
+    text-align: center;
+}
+
+.exp{
+    list-style-type: disc;
+    width: 25%;
+    margin: 25px;
+}
+
+.sst{
+    width: 25%;
+    display: flex;
+    flex-flow: column;
+    margin:15px;
+
+}
+
+.bac{
+    width: 25%;
+    margin:15px;
+
+}
+
+.daq{
+    width: 25%;
+    margin:15px;
+}
+
+.formations{
+    display: flex;
+    justify-content:space-around;
+}
+
+.precision{
+    text-align: center;
+}
+
+.imgdaq{
+    width: 100%;
+}
+
+.imgbac{
+    width:100%;
+}
+
+.mob{
+    width: 35%;
+    border: solid;
+    margin: 10px;
+}
+
+.charpente{
+    width: 35%;
+    border: solid;
+    margin: 10px;
+}
+
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orga{
+    display:flex;
+    flex-flow: column;
+    width: 25%;
+    text-align: center;
+}
+
+.adaptation{
+    display: flex;
+    flex-flow: column;
+    width: 25%;
+    text-align: center;
+}
+
+.equipe{
+    display: flex;
+    flex-flow: column;
+    width: 25%;
+    text-align: center;
+}
+
+.competences{
+    display: flex;
+    justify-content: space-around;
+    margin: 12px;
+}
+
+.perso{
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.pro{
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.prs{
+    padding: 6px;
+    width: 80%;
+}
+
+.prof{
+    padding: 6px;
+    width: 80%;
+}
+
+.contact{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-left: 7.2%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
